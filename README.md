@@ -32,7 +32,7 @@
 * [Подробнее о промпт-инъекциях и джейлбрейках](https://github.com/OWASP/www-project-top-10-for-large-language-model-applications/blob/main/2_0_vulns/translations/ru-RU/LLM01_PromptInjection.md)
 * [Статья об AutoDAN-Turbo](https://arxiv.org/abs/2410.05295v3)
 * [Документация LLAMATOR](https://llamator-core.github.io/llamator/)
-* [Пример атаки агентов Jayflow с помощью LLAMATOR](https://github.com/LLAMATOR-Core/ai-agents-securityblob/main/llamator.ipynb)
+* [Пример атаки агентов Jayflow с помощью LLAMATOR](https://github.com/LLAMATOR-Core/ai-agents-security/blob/main/llamator.ipynb)
 
 ### Криптоагент Freysa
 
